@@ -397,11 +397,11 @@ p {
 
 .header-image {
   position: relative;
-  height: 160px;
+  height: 200px;
   padding-top: 30px;
   background-image: url('../images/flower.png');
   background-position: 50% 0px;
-  background-size: contain;
+  background-size: auto;
 }
 
 .content-section {
