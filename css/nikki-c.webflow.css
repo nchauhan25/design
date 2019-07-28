@@ -398,10 +398,10 @@ p {
 .header-image {
   position: relative;
   height: 160px;
-  padding-top: 49px;
+  padding-top: 30px;
   background-image: url('../images/flower.png');
   background-position: 50% 0px;
-  background-size: auto;
+  background-size: contain;
 }
 
 .content-section {
