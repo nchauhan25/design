@@ -863,7 +863,7 @@ p {
   color: #444;
   cursor: pointer;
   padding: 50px;
-  width: auto;
+  width: 100%;
   text-align: center;
   border: none;
   outline: none;
@@ -877,10 +877,10 @@ p {
 
 /* Style the accordion panel. Note: hidden by default */
 .panel {
-  padding: 0 18px;
+  padding: 50px;
   background-color: white;
-  display: none;
-  overflow: hidden;
+  display: contents;
+  overflow: auto;
 }
 }
 
