@@ -859,12 +859,12 @@ p {
     margin-bottom: 17px;
   }
 .accordion {
-  background-color: #eee;
+  background-color: #333;
   color: #444;
   cursor: pointer;
-  padding: 18px;
+  padding: 50px;
   width: 100%;
-  text-align: left;
+  text-align: center;
   border: none;
   outline: none;
   transition: 0.4s;
