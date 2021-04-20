@@ -111,8 +111,10 @@ p {
   line-height: 60px;
   font-weight: 400;
 }
-.big-taglineindex {
+.big-taglinemain {
   margin-top: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 40px;
   line-height: 60px;
@@ -121,10 +123,8 @@ p {
 
 .big-tagline {
   margin-top: 40px;
-  margin-left: 20px;
-  margin-right: 20px;
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 34px;
+  font-size: 40px;
   line-height: 60px;
   font-weight: 300;
 }
